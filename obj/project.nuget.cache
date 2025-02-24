@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "kibhG5WAVU0=",
+  "success": true,
+  "projectFilePath": "/home/diego-gonzalez/Escritorio/USAC/5to Semestre/EDD/Tarea4/Tarea_4/Tarea_4.csproj",
+  "expectedPackageFiles": [
+    "/home/diego-gonzalez/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/diego-gonzalez/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
